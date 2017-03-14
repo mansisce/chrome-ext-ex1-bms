@@ -1,0 +1,29 @@
+/**
+ * Copyright (c) 2011 The Chromium Authors. All rights reserved.
+ * Use of this source code is governed by a BSD-style license that can be
+ * found in the LICENSE file.
+ */
+
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#print {
+  width: 512px;
+}
+
+.listRow:nth-child(2n) {
+	background-color: grey;
+}
+
+/*	cursor: pointer;
+    border-radius: 16px;
+    border: 1px solid #ccc;
+    padding: 3px 10px;
+    font-size: 11px;
+    color: #666;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: 80px;
+    float: left;*/

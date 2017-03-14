@@ -1,0 +1,847 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"chil",
+				"childNodes"
+			],
+			[
+				"close",
+				"closeClicked"
+			],
+			[
+				"clo",
+				"closeApp"
+			],
+			[
+				"lo",
+				"LogoutPageView"
+			],
+			[
+				"logout",
+				"logout_link"
+			],
+			[
+				"s",
+				"select2"
+			],
+			[
+				"a",
+				"async"
+			],
+			[
+				"back",
+				"backgrid"
+			],
+			[
+				"ran",
+				"RangeCell"
+			],
+			[
+				"Bac",
+				"Backgrid"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"sys",
+				"systemRangeView"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"re",
+				"renderAccountRange"
+			],
+			[
+				"even",
+				"eventBus"
+			],
+			[
+				"_",
+				"_getData"
+			],
+			[
+				"co",
+				"collections"
+			],
+			[
+				"b",
+				"bin"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 825,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "popup.js",
+			"settings":
+			{
+				"buffer_size": 1734,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "popup.html",
+			"settings":
+			{
+				"buffer_size": 238,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mappy_content_script.js",
+			"settings":
+			{
+				"buffer_size": 2577,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: BackboneView"
+			],
+			[
+				"",
+				"Set Syntax: JavaScript (Rails)"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/mansgupt/Personal/chrome ext/mappy 3"
+	],
+	"file_history":
+	[
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlements_manager.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/backbone.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/assign_users.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/base/list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/step_up_auth/list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/step_up_auth_manager.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/base/row.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/custom_range_list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/profile_entitlement/list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/main.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/WEB-INF/views/home.jsp",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/card_art_group_manager.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/contact_group_manager.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/layout.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/router.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/WEB-INF/views/error.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/entitlements.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/WEB-INF/web.xml",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/WEB-INF/views/home.jsp",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/backgrid-select2-cell.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/templates/entitlement/filter/bin.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/list_filter.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/system_range_list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/systemRangeEntitlement.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/backgrid/cardArtSelect2.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/backgrid/customColumnForAccountRangeList.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/AccountRangeList.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/filter/bin.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/select2.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/parent_list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/custom_range_row.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/templates/entitlement/system_range_list.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/templates/entitlement/account_range_list.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/templates/entitlement/list.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/bins.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/collections/base_collection.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/backgrid-filter.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/lib/datatable_helpers.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/router.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/main.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-messages/target/all_resources/external/uiCaMetadata.xsd",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/lib/token_requestor_name_checker.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/manage_processors.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/jquery.dataTables.min.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/templates/entitlement/account_range_list.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/custom_entitlements.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/entitlement/ParentListView.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/profile_entitlement/entitlement_event_bus.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/entitlement/entitlement_event_bus.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/singletons/storage.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/profile_entitlement/pending_status.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/entitlement/custom_range_form_modal.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/templates/entitlement/custom_account_range_list.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/entitlement/AccountRangeList.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/handlebars.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/lib/select2_default.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/lib/select2_default.js",
+		"/Users/mansgupt/Library/Application Support/Sublime Text 3/Packages/User/Backbone/BackboneView.sublime-snippet",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-database/changesets/data/seed-TCMC_ACCS_MODE.sql",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-data/src/main/java/com/visa/tokenization/vcam/data/entity/DefaultCardArtImage.java",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-database/changesets/data/seed-TCMC_CUSTM_FEATR.sql",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-database/changesets/data/seed-TCM_CRD_IMG_TYP.sql",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/card_art_groups.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-data/src/main/resources/seed-data.sql",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-data/src/main/java/com/visa/tokenization/vcam/data/entity/AccountRange.java",
+		"/Users/mansgupt/vcam-vcmm/downloads/seed-data-account-range-namitha.sql",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/image/form.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/card_art_group/validation.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/profile_entitlement/list.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/app.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/main/webapp/resources/js/lib/util.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/templates/image/list.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/test/webapp/resources/js/singletons/active_bid_spec.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/test/webapp/resources/js/collections/custom_entitlements_spec.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/entitlements_manager.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/templates/entitlement_manager.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/src/test/webapp/resources/js/views/entitlements/list_spec.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/image/validation.js",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-web/target/vcam-web/resources/templates/profile_entitlement/list.html",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/vcam-parent/vcam-database/target/vcmm-db-4.5.10_2_0-SNAPSHOT-sql.zip",
+		"/Users/mansgupt/vcam-vcmm/codebase/vcam/pre-commit.sh"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"gclient_geocode",
+			"activeUser.get",
+			"assignUser.get",
+			"manageProcessorPermissions",
+			"activeUser.get",
+			"permissions",
+			"activeUser.get",
+			"permissions",
+			"activeUser.get",
+			"renderStepUpAuths",
+			"getUserPrivileges",
+			"permissionCodes",
+			"permissionCOdes",
+			"manageProcessorPermissions",
+			"logout",
+			"home_manager",
+			"logout",
+			"validateAssignments",
+			"EntitlementValidationManagerView",
+			"logout",
+			"logout_link",
+			"Error Page",
+			"logout",
+			"HomeManagerView",
+			"collections:fetch_error",
+			"token_request",
+			"token_re",
+			"token",
+			"token_requestor",
+			"tokenRequestor",
+			"clover",
+			"ugli",
+			");\n",
+			"query",
+			"_type",
+			"                    \n",
+			"container",
+			"click",
+			"options",
+			"_registerDomEvents",
+			"_registerDropdownEvents",
+			"event",
+			"open",
+			"select2:open",
+			"Results.prototype.setClasses",
+			"trigger('query",
+			"query",
+			"query ",
+			"query",
+			"showLoading",
+			"searching",
+			"location",
+			"closeButtonClicked",
+			" window.logout",
+			".css",
+			".Event",
+			"dom",
+			"select",
+			"$.fn.select2",
+			";\n",
+			"_reloadAssignments",
+			"fetchBins",
+			"var",
+			"Select2Cell",
+			"backgrid-filter",
+			"backgrid-filter\"",
+			"exports",
+			"Select2Cell",
+			"backgrid-select2cell",
+			"Backgrid",
+			"additional_info",
+			"storage.stepUpAuths",
+			"systemRangeView",
+			"uri",
+			"url",
+			"Backbone.collection.extend",
+			"Backbone.model.extend",
+			"Backbone.view.extend",
+			"Backbone.view.ex",
+			"Backbone.model.ex",
+			"Backbone.collection.exte",
+			"Backbone.collection",
+			"Backbone.model",
+			"Backgrid.model",
+			"Backgrid.col",
+			"attrs.options",
+			"Collection.extend",
+			"Model.extend",
+			"!!",
+			"Backgrid.Column",
+			"Backgrid.Cellformat",
+			"Backbone.String",
+			"Backgrid.Cell",
+			"Backgrid.Columns",
+			"Columns",
+			"columns",
+			"COLUMNS",
+			"termsAndConditionsGroupId",
+			"collections",
+			"systemRangeEntitlement",
+			"tagn",
+			"Manage Custom Group",
+			"Manage Custom",
+			"Backgrid",
+			"Backgrid.Grid",
+			"backbone-pageable",
+			"PageableCollection",
+			"Backbone.PageableCollection.extend",
+			"js-system-range",
+			"js-system_account_range",
+			"width:100%",
+			"SystemRangeView",
+			"accountRangeMin",
+			"datatableDefault",
+			"EntitlementListView",
+			"SystemRangeView",
+			"datatableHelpers",
+			"dataTableDe",
+			"entitlement_event_bus",
+			"entitlemnt_event_bus",
+			"entitlemnt_ent_bus",
+			"this.list",
+			"datatableDefault",
+			"_fnDataSource",
+			"bServerSide",
+			" DataTable.defaults",
+			"DataTable.models",
+			"oFeatures"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 825,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								498,
+								430
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "popup.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1331,
+								1331
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "popup.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 238,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "mappy_content_script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1834,
+								1834
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 598.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "chromeExt.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"home.jsp",
+				"vcam-parent/vcam-web/src/main/webapp/WEB-INF/views/home.jsp"
+			],
+			[
+				"main.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/main.js"
+			],
+			[
+				"home",
+				"vcam-parent/vcam-web/src/main/webapp/WEB-INF/views/home.jsp"
+			],
+			[
+				"manage_processor/list",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/manage_processor/list.js"
+			],
+			[
+				"home_ma",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/home_manager.js"
+			],
+			[
+				"errorhtml",
+				"vcam-parent/vcam-web/target/vcam-web/WEB-INF/views/error.html"
+			],
+			[
+				"home_manager",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/home_manager.js"
+			],
+			[
+				"router",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/router.js"
+			],
+			[
+				"web.xml",
+				"vcam-parent/vcam-web/src/main/webapp/WEB-INF/web.xml"
+			],
+			[
+				"buildconf",
+				"vcam-parent/vcam-web/src/main/config/buildconfig.json"
+			],
+			[
+				"home.js",
+				"vcam-parent/vcam-web/target/vcam-web/WEB-INF/views/home.jsp"
+			],
+			[
+				"list.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/list.js"
+			],
+			[
+				"bins",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/bins.js"
+			],
+			[
+				"bins.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/bins.js"
+			],
+			[
+				"select2v",
+				"vcam-parent/vcam-web/node_modules/select2/dist/js/select2-v4.js"
+			],
+			[
+				"ho",
+				"vcam-parent/vcam-web/src/main/webapp/WEB-INF/views/home.jsp"
+			],
+			[
+				"filter/",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/filter/bin.js"
+			],
+			[
+				"select2",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/select2.js"
+			],
+			[
+				"bin.htm",
+				"vcam-parent/vcam-web/src/main/webapp/resources/templates/entitlement/filter/bin.html"
+			],
+			[
+				"bin",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/bins.js"
+			],
+			[
+				"filter/bin",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/filter/bin.js"
+			],
+			[
+				"base_collect",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/base_collection.js"
+			],
+			[
+				"base_collec",
+				"vcam-parent/vcam-web/target/vcam-web/resources/js/app/collections/base_collection.js"
+			],
+			[
+				"backgrid-select",
+				"vcam-parent/vcam-web/node_modules/backgrid-select2-cell/backgrid-select2-cell.js"
+			],
+			[
+				"router.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/router.js"
+			],
+			[
+				"app.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app.js"
+			],
+			[
+				"package.json",
+				"vcam-parent/vcam-web/package.json"
+			],
+			[
+				"backgrid.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/backgrid.js"
+			],
+			[
+				"account_range",
+				"vcam-parent/vcam-web/src/main/webapp/resources/templates/entitlement/account_range_list.html"
+			],
+			[
+				"custom",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/custom_entitlements.js"
+			],
+			[
+				"event",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/profile_entitlement/entitlement_event_bus.js"
+			],
+			[
+				"eventbu",
+				"vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/entitlement/entitlement_event_bus.js"
+			],
+			[
+				"account_",
+				"vcam-parent/vcam-web/target/vcam-web/resources/templates/entitlement/account_range_list.html"
+			],
+			[
+				"list.html",
+				"vcam-parent/vcam-web/target/vcam-web/resources/templates/entitlement/list.html"
+			],
+			[
+				"ui",
+				"vcam-parent/vcam-messages/target/all_resources/external/uiCaMetadata.xsd"
+			],
+			[
+				"jquery",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/jquery.dataTables.min.js"
+			],
+			[
+				"entitlements",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/entitlements.js"
+			],
+			[
+				"bins.",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/bins.js"
+			],
+			[
+				"select",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/select2.js"
+			],
+			[
+				"backbone.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/backbone.js"
+			],
+			[
+				"handleba",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/vendor/handlebars.js"
+			],
+			[
+				"basecolle",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/base_collection.js"
+			],
+			[
+				"select2_",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/lib/select2_default.js"
+			],
+			[
+				"parentlist",
+				"vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/entitlement/ParentListView.js"
+			],
+			[
+				"storage",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/singletons/storage.js"
+			],
+			[
+				"profile_entitlement/list.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/profile_entitlement/list.js"
+			],
+			[
+				"profile/lis",
+				"vcam-parent/vcam-web/target/vcam-web/resources/js/app/views/profile_entitlement/list.js"
+			],
+			[
+				"util.",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/lib/util.js"
+			],
+			[
+				"entitlement/list.html",
+				"vcam-parent/vcam-web/target/vcam-web/resources/templates/entitlement/list.html"
+			],
+			[
+				"entitlement/list",
+				"vcam-parent/vcam-web/src/main/webapp/resources/templates/entitlement/custom_account_range_list.html"
+			],
+			[
+				"entitlement_manager",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlements_manager.js"
+			],
+			[
+				"views/entitlement/list",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/list.js"
+			],
+			[
+				"entitlement/list.js",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/views/entitlement/list.js"
+			],
+			[
+				"bc",
+				"vcam-parent/vcam-web/src/main/webapp/resources/js/app/collections/base_collection.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 369.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
